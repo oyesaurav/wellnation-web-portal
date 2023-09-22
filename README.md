@@ -1,44 +1,139 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-## Getting Started
+<br />
+<div align="center">
+  <a href="https://github.com/Wellnation">
+    <img src="https://raw.githubusercontent.com/Wellnation/.github/main/profile/wn.png" alt="Logo" width="200" height="200">
+  </a>
 
-First, run the development server:
+ ## <p align="center">WELLNATION</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+  <p align="center">
+    Healthier you, happier world!
+    <br/>
+    <a href="https://github.com/Wellnation/WellnationAndroidApp">Android app</a>
+    ·
+    <a href="https://github.com/Wellnation/wellnation-web-portal">Web app</a>
+    <br />
+    <!-- <br />
+    <a href="#">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
+  </p>
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- TABLE OF CONTENTS -->
+<!-- <details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details> -->
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<!-- ABOUT THE PROJECT -->
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## About The Project
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<b>`WellNation`</b> is a revolutionary platform that aims to bring transparency to the healthcare industry by connecting hospitals, service providers, users, and doctors with real-time data and information updates. The platform offers a comprehensive list of nearby hospitals, along with information about available doctors, tests, and rooms, making it easy for users to make informed decisions.
 
-## Learn More
+Users can book appointments and tests through the app and access all relevant information about the availability of different services at all hospitals. The platform also features WellBot, a chatbot designed to answer all medical questions within the app, providing users with quick and reliable medical advice.
 
-To learn more about Next.js, take a look at the following resources:
+In addition, WellNation features an emergency SOS alert system that users can activate with just one click. By clicking the app widget, the user's location and information are shared with nearby hospitals and volunteers, ensuring rapid assistance during emergency situations.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Overall, WellNation is an innovative healthcare application that simplifies the process of connecting with nearby hospitals while providing users with all necessary information related to medical issues. Its integration with WellBot and emergency SOS alert system make it a comprehensive healthcare solution that is essential for all individuals seeking medical attention.
+### Video: 
+<div align="center">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Af9kPG86Js4/0.jpg)](https://www.youtube.com/watch?v=Af9kPG86Js4)
 
-## Deploy on Vercel
+</div>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-[![](https://mermaid.ink/img/pako:eNqFkU1PwzAMhv-KlVMmdeJeoUmVhsRhSKgDDhAOpvHaiOZjSSqE1v13srYbRRx2i-3nfe3YB1ZZSSxntUfXwKYURpjm7d4GpyK277Bcrvqtqk2AZ9cDcl5IrcxiceJwqBZSBliTQx81mRh6kJz_xiMqZ6itovUn7A93--FvVlNtbv-i6CtA4ZxV5twAXZqjbQfJvDLXbVSIAUprdcjgbt8pNyAZYBrmicLJx1Pk_D8y-F6wydSNq2hsmuYRo0oklLTvRifnOZ-yg_pcGcWpzxU1y5gmr1HJdIuDMACCxYY0CZanp0T_KZgwx8RhF-3221Qsj76jjHVOYqS1wnRCzfIdtiFlHZrX9LFLTFKlzT6Mx66s2amaHX8AIhqx6A?type=png)](https://mermaid.live/edit#pako:eNqFkU1PwzAMhv-KlVMmdeJeoUmVhsRhSKgDDhAOpvHaiOZjSSqE1v13srYbRRx2i-3nfe3YB1ZZSSxntUfXwKYURpjm7d4GpyK277Bcrvqtqk2AZ9cDcl5IrcxiceJwqBZSBliTQx81mRh6kJz_xiMqZ6itovUn7A93--FvVlNtbv-i6CtA4ZxV5twAXZqjbQfJvDLXbVSIAUprdcjgbt8pNyAZYBrmicLJx1Pk_D8y-F6wydSNq2hsmuYRo0oklLTvRifnOZ-yg_pcGcWpzxU1y5gmr1HJdIuDMACCxYY0CZanp0T_KZgwx8RhF-3221Qsj76jjHVOYqS1wnRCzfIdtiFlHZrX9LFLTFKlzT6Mx66s2amaHX8AIhqx6A)
+## Check out the Repositories
+Android App Code: https://github.com/Wellnation/WellnationAndroidApp
+<br>
+Web Portal Code: https://github.com/Wellnation/wellnation-web-portal
 
-[![](https://mermaid.ink/img/pako:eNpVUMtqwzAQ_JVFJxkSejclEPChhQRKDTmk6mFrbWNRWyu0MiXE-fcKmeL2trMzs4-5qY4tqVpdIoYeDq_GG2_fGu4Sx3fYbnfzgS8Cz34GG7ReiMeP-LB74ZhwqKriCEV6cvQtsA-BnU8j-SQzYHb97fwztJQE2kCdw8Gl6wwiWq940YoU7RNLcHkj7K0VSAwNBYxl6Ay91r98OW7lqkpt1EhxRGfznzfjAYxKPY1kVJ1Li_HLKOPvWYdT4vbqO1WnONFGTcFiosZhjmdU9ScOkrsB_Zl5xWRdDuW4BFnyvP8AzS93kg?type=png)](https://mermaid.live/edit#pako:eNpVUMtqwzAQ_JVFJxkSejclEPChhQRKDTmk6mFrbWNRWyu0MiXE-fcKmeL2trMzs4-5qY4tqVpdIoYeDq_GG2_fGu4Sx3fYbnfzgS8Cz34GG7ReiMeP-LB74ZhwqKriCEV6cvQtsA-BnU8j-SQzYHb97fwztJQE2kCdw8Gl6wwiWq940YoU7RNLcHkj7K0VSAwNBYxl6Ay91r98OW7lqkpt1EhxRGfznzfjAYxKPY1kVJ1Li_HLKOPvWYdT4vbqO1WnONFGTcFiosZhjmdU9ScOkrsB_Zl5xWRdDuW4BFnyvP8AzS93kg)
 
-[![](https://mermaid.ink/img/pako:eNptkk9LAzEQxb9KyGkLLd4XKSgVFFos1nrQeJhuxt3QzR-SLFK6_e7OJqW60lvy3u9lZsIceWUl8pLXHlzDli_CCOM-1hAVmvjJZrN5_-zQBHbnXM8aVxSPVuPtzt_M11DjZDIEGpfAjaoJ3BIXiBtuidu6TIVMLW0d2JPpWUsQXZTJdpvte2v3qZpVJmpqomc7KIpBTq_9cXJuB7k4tljFwBa2itZTC5JaSFqKZflq4lVpJD6O-EG8_j468OfGgkQ3rnIxRzO9KfwezRR6BpQc9P9DhVFyBS6wB42-RlMdeoa6KEhLoYucE6jPfRpJtVr01CDSz12wXGkwckAYPuVkalCSNuAoDGOCxwY1Cl7SUYLfCy7MiTjoot0cTMXL6Duc8s5JiLhQQIujefkFbSDVgXm39veOUtGvr_KKpU07_QAeB9eG?type=png)](https://mermaid.live/edit#pako:eNptkk9LAzEQxb9KyGkLLd4XKSgVFFos1nrQeJhuxt3QzR-SLFK6_e7OJqW60lvy3u9lZsIceWUl8pLXHlzDli_CCOM-1hAVmvjJZrN5_-zQBHbnXM8aVxSPVuPtzt_M11DjZDIEGpfAjaoJ3BIXiBtuidu6TIVMLW0d2JPpWUsQXZTJdpvte2v3qZpVJmpqomc7KIpBTq_9cXJuB7k4tljFwBa2itZTC5JaSFqKZflq4lVpJD6O-EG8_j468OfGgkQ3rnIxRzO9KfwezRR6BpQc9P9DhVFyBS6wB42-RlMdeoa6KEhLoYucE6jPfRpJtVr01CDSz12wXGkwckAYPuVkalCSNuAoDGOCxwY1Cl7SUYLfCy7MiTjoot0cTMXL6Duc8s5JiLhQQIujefkFbSDVgXm39veOUtGvr_KKpU07_QAeB9eG)
+## Try it out
+
+[![N|Solid](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-100x100.jpg)](https://github.com/Wellnation/.github/raw/main/profile/WellNation.apk) 
+&nbsp;<a href="http://wellnation.live" target="_blank">
+  <img alt="web-logo" src="https://cdn0.iconfinder.com/data/icons/business-finance-vol-6-9/512/13-512.png" height="40px" />
+  
+</a>
+Credentials for Android App: You can create a new Account by Providing Email and Password
+<br>
+Credentials for Web: You can Create a new account but here is a sample account with some sample data for better understanding of the admin pannel. <br> Email Address: b120057@iiit-bh.ac.in , Password: 123456
+<br>
+<br>
+
+## Authors ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DarthSalad"><img src="https://avatars.githubusercontent.com/u/75924053?v=4" width="100px;" alt="Yuval Hazaz"/><br /><sub><b>Piyush Mishra</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/oyesaurav"><img src="https://avatars.githubusercontent.com/u/78659500?v=4" width="100px;" alt="Yuval Hazaz"/><br /><sub><b>Saurav Pati</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/shubhasai"><img src="https://avatars.githubusercontent.com/u/78340623?v=4" width="100px;" alt="Yuval Hazaz"/><br /><sub><b>Shubhasai Mohapatra</b></sub></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- USAGE EXAMPLES -->
+
+<!-- ## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
+<!-- ROADMAP -->
+<!-- 
+## Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+  - [ ] Chinese
+  - [ ] Spanish
+ --> 
